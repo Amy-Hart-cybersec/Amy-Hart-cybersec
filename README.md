@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/amylynnhart"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I'm a current Moorpark College cybersecurity student. I'm enrolled in Google's Cybersecurity Certification program and plan on earning the CompTIA Security+ certification by the end of the year. I'm passionate about continuous learning, creative problem-solving, and contributing to mission-driven work.
+I am CompTIA Security+ certified and am currently taking courses in cybersecurity at Moorpark College. I'm passionate about continuous learning, creative problem-solving, and contributing to mission-driven work.
 
 ## Objective
 
