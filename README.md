@@ -6,7 +6,7 @@ I am CompTIA Security+ certified and am continuing my cybersecurity studies at M
 
 ## Objective
 
-Aspiring cybersecurity professional with 10 years of experience working across industries, including Fortune 500 companies, in roles handling sensitive information and complex communications. Hands-on lab experience in threat detection, SIEM, endpoint monitoring, and digital forensics complements my strong analytical and problem-solving skills. Committed to protecting organizations from evolving cyber threats while continuously learning across technical and strategic domains.
+Aspiring cybersecurity professional with 10 years of experience working across industries, including Fortune 500 companies, in roles handling complex communications. Hands-on lab experience in threat detection, SIEM, endpoint monitoring, and digital forensics complements my strong analytical and problem-solving skills. Committed to protecting organizations from evolving cyber threats while continuously learning across technical and strategic domains.
 
 ## Skills
 
