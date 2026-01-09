@@ -1,12 +1,11 @@
 # Hello, I'm Amy
-<a href="https://www.linkedin.com/in/amylynnhart"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am CompTIA Security+ certified and am continuing my cybersecurity studies at Moorpark College in Moorpark, CA. I'm passionate about continuous learning, creative problem-solving, and contributing to mission-driven work.
 
 ## Objective
 
-Aspiring cybersecurity professional with 10 years of experience working across industries, including Fortune 500 companies, in roles handling complex communications. Hands-on lab experience in threat detection, SIEM, endpoint monitoring, and digital forensics complements my strong analytical and problem-solving skills. Committed to protecting organizations from evolving cyber threats while continuously learning across technical and strategic domains.
+Aspiring cybersecurity professional with 10 years of experience working across industries, including Fortune 500 companies. Hands-on lab experience in threat detection, SIEM, endpoint monitoring, and digital forensics complements my strong analytical and problem-solving skills. Committed to protecting organizations from evolving cyber threats while continuously learning across technical and strategic domains.
 
 ## Skills
 
