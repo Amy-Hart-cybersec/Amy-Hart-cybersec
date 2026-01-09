@@ -15,7 +15,7 @@ Aspiring cybersecurity professional with 10 years of experience working across i
 | Threat Detection & Analysis                   | [Intro to Cyber Threat Intel](https://tryhackme.com/room/cyberthreatintel)
 | Network Traffic Analysis                      | [Traffic Analysis Essentials](https://tryhackme.com/room/trafficanalysisessentials)
 | PCAP Analysis                                 | [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics)
-| Log Analysis & SIEM Operations                | [Introduction to SIEM](https://tryhackme.com/room/introtodetectionengineering)
+| Log Analysis & SIEM Operations                | [Introduction to SIEM](https://tryhackme.com/room/introtosiem)
 | Log Analysis & SIEM Operations                | [Introduction to Log Analysis](https://tryhackme.com/room/introtologanalysis)
 | Security Monitoring & Incident Response       | [Auditing and Monitoring](https://tryhackme.com/room/auditingandmonitoringse)
 | Microsoft Sentinel                            | [MS Sentinel: Introduction](https://tryhackme.com/room/sentinelintroduction)
