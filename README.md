@@ -2,57 +2,40 @@
 <a href="https://www.linkedin.com/in/amylynnhart"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am CompTIA Security+ certified and am currently taking courses in cybersecurity at Moorpark College. I'm passionate about continuous learning, creative problem-solving, and contributing to mission-driven work.
+I am CompTIA Security+ certified and am continuing my cybersecurity studies at Moorpark College in Moorpark, CA. I'm passionate about continuous learning, creative problem-solving, and contributing to mission-driven work.
 
 ## Objective
 
-Driven by a love of learning, I've found my calling in cybersecurity -- a dynamic, mission-driven field that aligns with my strengths in strategic thinking and communication. With 10 years in communications, I've developed expertise in managing sensitive information, protecting reputations, and educating others, all of which are critical to security. I'm now focused on GRC and security awareness, where my skills support risk reduction, compliance, and stakeholder education.
+Aspiring cybersecurity professional with 10 years of experience working across industries, including Fortune 500 companies, in roles handling sensitive information and complex communications. Hands-on lab experience in threat detection, SIEM, endpoint monitoring, and digital forensics complements my strong analytical and problem-solving skills. Committed to protecting organizations from evolving cyber threats while continuously learning across technical and strategic domains.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+
+| Skill                                         | Associated Lab             |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+| Threat Detection & Analysis                   | [Intro to Cyber Threat Intel](https://tryhackme.com/room/cyberthreatintel)
+| Network Traffic Analysis                      | [Traffic Analysis Essentials](https://tryhackme.com/room/trafficanalysisessentials)
+| PCAP Analysis                                 | [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics)
+| Log Analysis & SIEM Operations                | [Introduction to SIEM](https://tryhackme.com/room/introtodetectionengineering)
+| Log Analysis & SIEM Operations                | [Introduction to Log Analysis](https://tryhackme.com/room/introtologanalysis)
+| Security Monitoring & Incident Response       | [Auditing and Monitoring](https://tryhackme.com/room/auditingandmonitoringse)
+| Microsoft Sentinel                            | [MS Sentinel: Introduction](https://tryhackme.com/room/sentinelintroduction)
+| Splunk                                        | [Splunk: The Basics](https://tryhackme.com/room/splunk101)
+| Malware Analysis                              | [Intro to Malware Analysis](https://tryhackme.com/room/intromalwareanalysis)
+| Digital Forensics                             | [DFIR: An Introduction](https://tryhackme.com/room/introductoryroomdfirmodule)
+| Digital Forensics                             | [Windows Forensics 1](https://tryhackme.com/room/windowsforensics1)
+| Digital Forensics                             | [Linux Forensics](https://tryhackme.com/room/linuxforensics)
+| MITRE ATT&CK Mapping                          | [MITRE](https://tryhackme.com/room/mitre)
+| Threat Hunting                                | [Eviction](https://tryhackme.com/room/eviction)
+| Endpoint Security & EDR                       | [Intro to Endpoint Security](https://tryhackme.com/room/introtoendpointsecurity)
+| Sysmon                                        | [Sysmon](https://tryhackme.com/room/sysmon)
+| Velociraptor                                  | [Velociraptor](https://tryhackme.com/room/velociraptorhp)
+| Phishing Analysis                             | [Phishing Analysis Fundamentals](https://tryhackme.com/room/phishingemails1tryoe)
+| Phishing Analysis                             | [Phishing Emails in Action](https://tryhackme.com/room/phishingemails2rytmuv)
+| Detection Engineering                         | [Intro to Detection Engineering](https://tryhackme.com/room/introtodetectionengineering)
+| Threat Hunting                                | [Hunt Me I: Payment Collectors](https://tryhackme.com/room/paymentcollectors)
+| Threat Hunting                                | [Boogeyman 1](https://tryhackme.com/room/boogeyman1)
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+CompTIA Security+ Certified
 
-## Projects
-- Detection Lab
-- SOC Automation Project
