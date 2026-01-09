@@ -1,7 +1,7 @@
 # Hello, I'm Amy
 
 
-I am CompTIA Security+ certified and am continuing my cybersecurity studies at Moorpark College in Moorpark, CA. I'm passionate about continuous learning, creative problem-solving, and contributing to mission-driven work.
+I am CompTIA Security+ certified and am continuing my cybersecurity studies at Moorpark College. I'm passionate about continuous learning, creative problem-solving, and contributing to mission-driven work.
 
 ## Objective
 
