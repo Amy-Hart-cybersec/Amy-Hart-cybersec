@@ -15,11 +15,13 @@ Aspiring cybersecurity professional with 10 years of experience working across i
 In this technical lab, I performed a forensic analysis of a suspicious email to validate sender authenticity. While the message bypassed basic filters by utilizing legitimate bulk-mailing infrastructure, I identified a Domain Alignment Failure through manual header triage. My analysis confirmed the message was a brand impersonation attempt, which was mitigated by the organization's DMARC policy.
 
 **Tools Used**
+
 Gmail Source View: For raw header extraction.
 
 Cisco Talos Intelligence: For IP reputation and threat intelligence.
 
 **Methodology**
+
 Header Extraction: Accessed the "Original Source" of a suspicious email to review the hop-by-hop delivery path.
 
 Security Protocol Audit: Analyzed the three pillars of email security:
