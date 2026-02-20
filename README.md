@@ -40,7 +40,7 @@ Threat Intelligence Mapping: Extracted the originating IP address from the Recei
 | **Return-Path** | `errors-[useremail]@rch003.net` | **Mismatch** | The real source of the email. There is a domain mismatch. |
 | **SPF** | `PASS` | Valid | The sending server at `rch003.net` is authorized to send mail for its own domain. |
 | **DKIM** | `PASS` | Valid | The message was digitally signed by the `rch003.net` server. |
-| **DMARC** | `FAIL` |**Non-Alignment:** | DMARC failed because the "From" domain and "DKIM/SPF" domains are not aligned. |
+| **DMARC** | `FAIL` |**Non-Alignment** | DMARC failed because the "From" domain and "DKIM/SPF" domains are not aligned. |
 
 ## Takeaway
 
