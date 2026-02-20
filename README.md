@@ -9,17 +9,17 @@ Aspiring cybersecurity professional with 10 years of experience working across i
 
 ## Home Lab Projects
 
-**Phishing Analysis and Email Authentication Audit
+**Phishing Analysis and Email Authentication Audit**
 
-**Objective
+**Objective**
 In this technical lab, I performed a forensic analysis of a suspicious email to validate sender authenticity. While the message bypassed basic filters by utilizing legitimate bulk-mailing infrastructure, I identified a Domain Alignment Failure through manual header triage. My analysis confirmed the message was a brand impersonation attempt, which was mitigated by the organization's DMARC policy.
 
-**Tools Used
+**Tools Used**
 Gmail Source View: For raw header extraction.
 
 Cisco Talos Intelligence: For IP reputation and threat intelligence.
 
-**Methodology
+**Methodology**
 Header Extraction: Accessed the "Original Source" of a suspicious email to review the hop-by-hop delivery path.
 
 Security Protocol Audit: Analyzed the three pillars of email security:
@@ -42,7 +42,7 @@ Threat Intelligence Mapping: Extracted the originating IP address from the Recei
 
 ## Takeaway
 
-Even though SPF and DKIM technically passed, they passed for the service provider, not the impersonated brand. The attacker's tactic indicates trying to leverage higher reputation bulk-mailers to bypass filters that don't check for DMARC alignment. I identified the phishing attempt by performing a manual header audit. The use of Variable Envelope Return Path (VERP) in the Return-Path header further confirms he use of automated bulk-mailer software, an indicator of high-volume phishing campaigns. Successfully triaged the threat without interacting with embedded links or attachments.
+Even though SPF and DKIM technically passed, they passed for the service provider, not the impersonated brand. The attacker's tactic indicates trying to leverage higher reputation bulk-mailers to bypass filters that don't check for DMARC alignment. I identified the phishing attempt by performing a manual header audit. The use of Variable Envelope Return Path (VERP) in the Return-Path header further confirms the use of automated bulk-mailer software, an indicator of high-volume phishing campaigns. Successfully triaged the threat without interacting with embedded links or attachments.
 
 ## Mitigation Efforts
 1. **Triage:** Identified the mismatch between the Display Domain and the Signing Domain.
