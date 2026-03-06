@@ -13,72 +13,80 @@ Aspiring cybersecurity professional with 10 years of experience working across i
 
 Fictional Organization: Miller & Miller Marketing Firm (10 employees)
 
-1.	Laptops (10)
-a.	Threats and vulnerabilities include theft, malware, data loss, ransomware, lost/stolen device without encryption, unauthorized USB device use
+*1.	Laptops (10)*
+Threats and vulnerabilities include theft, malware, data loss, ransomware, lost/stolen device without encryption, unauthorized USB device use
 
-b.	Risk: High
+Risk: High
 
-c.	Controls: Asset tagging, full disk encryption (Bitlocker/FileVault), EDR, automatic patching, remote wipe capability, screen lock policy, USB restrictions
+Controls: Asset tagging, full disk encryption (Bitlocker/FileVault), EDR, automatic patching, remote wipe capability, screen lock policy, USB restrictions
 
-2.	Monitors (10)
+*2.	Monitors (10)*
 
-a.	Threats and vulnerabilities include theft
+Threats and vulnerabilities include theft
 
-b.	Risk: Low
+Risk: Low
 
-3.	Outlook (10 accounts)
+*3.	Outlook (10 accounts)*
 
-a.	Threats and vulnerabilities include fraudulent wire transfer, payroll diversion fraud, phishing and malware, data loss, credential abuse, external email warning banners, and ransomware
+Threats and vulnerabilities include fraudulent wire transfer, payroll diversion fraud, phishing and malware, data loss, credential abuse, external email warning banners, and ransomware
 
-b.	Risk: High
+Risk: High
 
-c.	Controls: Security awareness training, MFA requirements, conditional access policies, email archiving/retention policy, anti-phishing policies, and DMARC/SPF/DKIM enforcement
+Controls: Security awareness training, MFA requirements, conditional access policies, email archiving/retention policy, anti-phishing policies, and DMARC/SPF/DKIM enforcement
 
-4.	Website
+*4.	Website*
 
-a.	Threats and vulnerabilities include malicious redirect and domain hijacking
+Threats and vulnerabilities include malicious redirect and domain hijacking
 
-b.	Risk: Low 
+Risk: Low 
 
-5.	Slack account
+*5.	Slack account*
 
-a.	Threats and vulnerabilities include data loss 
+Threats and vulnerabilities include data loss 
 
-b.	Risk: Medium
+Risk: Medium
 
-c.	Controls: SSO with MFA, message retention policy, limiting third-party app approvals, and session timeout
+Controls: SSO with MFA, message retention policy, limiting third-party app approvals, and session timeout
 
-6.	QuickBooks account
+*6.	QuickBooks account*
 
-a.	Threats and vulnerabilities include vendor/ACH fraud, data loss, credential abuse, and ransomware
+Threats and vulnerabilities include vendor/ACH fraud, data loss, credential abuse, and ransomware
 
-b.	Risk: High
+Risk: High
 
-c.	Controls: role-based access control list, principle of least privilege, separation of duties, MFA, backing up data, IP restriction (if available), transaction approval workflows, and audit log review
+Controls: role-based access control list, principle of least privilege, separation of duties, MFA, backing up data, IP restriction (if available), transaction approval workflows, and audit log review
 
-7.	Dropbox account
+*7.	Dropbox account*
 
-a.	Threats and vulnerabilities include misconfigured public link sharing, data loss, credential abuse, and ransomware
+Threats and vulnerabilities include misconfigured public link sharing, data loss, credential abuse, and ransomware
 
-b.	Risk: High
+Risk: High
 
-c.	Controls: Requiring MFA, backing up data, DLP policies, link expiration policies, file activity monitoring, and device approvals requirement
+Controls: Requiring MFA, backing up data, DLP policies, link expiration policies, file activity monitoring, and device approvals requirement
 
-8.	Physical office space
+*8.	Physical office space*
 
-a.	Threats and vulnerabilities include equipment theft, fire, water damage, and power outage
+Threats and vulnerabilities include equipment theft, fire, water damage, and power outage
 
-b.	Risk: Medium
+Risk: Medium
 
-c.	Controls:  Alarm system, obscuring view of valuable like laptops and monitors via blinds, strategically placed cameras and lights, badge access, locked filing cabinets, clean desk policy, and document shredding policy
+Controls:  Alarm system, obscuring view of valuable like laptops and monitors via blinds, strategically placed cameras and lights, badge access, locked filing cabinets, clean desk policy, and document shredding policy
 
-9.	Cloud-based VPN 
+*9.	Cloud-based VPN* 
 
-a.	Threats and vulnerabilities include compromised credentials, unauthorize access from person devices, misconfigured access policies, and over-provisioned user permissions
+Threats and vulnerabilities include compromised credentials, unauthorize access from person devices, misconfigured access policies, and over-provisioned user permissions
 
-b.	Risk: Medium
+Risk: Medium
 
-c.	Controls: MFA required for VPN/access sessions, device posture checks, principle of least privilege regarding access policies, idle session timeout, and reviewing access logs periodically
+Controls: MFA required for VPN/access sessions, device posture checks, principle of least privilege regarding access policies, idle session timeout, and reviewing access logs periodically
+
+*10.	Client Data and CRM System (HubSpot)*
+
+Threats and vulnerabilities include unauthorized access to client PII, data exfiltration by employees, third-party integration abuse, accidental public exposure of contact lists, and account takeover
+
+Risk: High
+
+Controls: MFA on all accounts, role-based access control, restricting and auditing third-party app integrations, data retention and data deletion policy aligned with regulatory requirements, export/download restrictions for non-admin users, and periodic access reviews
 
 **Phishing Analysis and Email Authentication Audit**
 
