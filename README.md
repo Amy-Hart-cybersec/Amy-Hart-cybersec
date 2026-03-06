@@ -9,7 +9,7 @@ Aspiring cybersecurity professional with 10 years of experience working across i
 
 ## Home Lab Projects
 
-***GRC Mini Risk Assessment Report**
+**GRC Mini Risk Assessment Report**
 
 Fictional Organization: Miller & Miller Marketing Firm (10 employees)
 
