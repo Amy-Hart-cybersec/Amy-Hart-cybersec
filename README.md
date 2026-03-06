@@ -9,6 +9,53 @@ Aspiring cybersecurity professional with 10 years of experience working across i
 
 ## Home Lab Projects
 
+***GRC Mini Risk Assessment Report**
+
+Fictional Organization: Miller & Miller Marketing Firm (10 employees)
+
+1.	Laptops (10)
+a.	Threats and vulnerabilities include theft, malware, data loss, ransomware, lost/stolen device without encryption, unauthorized USB device use
+b.	Risk: High
+c.	Controls: Asset tagging, full disk encryption (Bitlocker/FileVault), EDR, automatic patching, remote wipe capability, screen lock policy, USB restrictions
+
+2.	Monitors (10)
+a.	Threats and vulnerabilities include theft
+b.	Risk: Low
+
+3.	Outlook (10 accounts)
+a.	Threats and vulnerabilities include fraudulent wire transfer, payroll diversion fraud, phishing and malware, data loss, credential abuse, external email warning banners, and ransomware
+b.	Risk: High
+c.	Controls: Security awareness training, MFA requirements, conditional access policies, email archiving/retention policy, anti-phishing policies, and DMARC/SPF/DKIM enforcement
+
+4.	Website
+a.	Threats and vulnerabilities include malicious redirect and domain hijacking
+b.	Risk: Low 
+
+5.	Slack account
+a.	Threats and vulnerabilities include data loss 
+b.	Risk: Medium
+c.	Controls: SSO with MFA, message retention policy, limiting third-party app approvals, and session timeout
+
+6.	QuickBooks account
+a.	Threats and vulnerabilities include vendor/ACH fraud, data loss, credential abuse, and ransomware
+b.	Risk: High
+c.	Controls: role-based access control list, principle of least privilege, separation of duties, MFA, backing up data, IP restriction (if available), transaction approval workflows, and audit log review
+
+7.	Dropbox account
+a.	Threats and vulnerabilities include misconfigured public link sharing, data loss, credential abuse, and ransomware
+b.	Risk: High
+c.	Controls: Requiring MFA, backing up data, DLP policies, link expiration policies, file activity monitoring, and device approvals requirement
+
+8.	Physical office space
+a.	Threats and vulnerabilities include equipment theft, fire, water damage, and power outage
+b.	Risk: Medium
+c.	Controls:  Alarm system, obscuring view of valuable like laptops and monitors via blinds, strategically placed cameras and lights, badge access, locked filing cabinets, clean desk policy, and document shredding policy
+
+9.	Cloud-based VPN 
+a.	Threats and vulnerabilities include compromised credentials, unauthorize access from person devices, misconfigured access policies, and over-provisioned user permissions
+b.	Risk: Medium
+c.	Controls: MFA required for VPN/access sessions, device posture checks, principle of least privilege regarding access policies, idle session timeout, and reviewing access logs periodically
+
 **Phishing Analysis and Email Authentication Audit**
 
 **Objective**
