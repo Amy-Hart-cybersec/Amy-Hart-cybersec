@@ -14,6 +14,7 @@ Aspiring cybersecurity professional with 10 years of experience working across i
 Fictional Organization: Miller & Miller Marketing Firm (10 employees)
 
 *1.	Laptops (10)*
+
 Threats and vulnerabilities include theft, malware, data loss, ransomware, lost/stolen device without encryption, unauthorized USB device use
 
 Risk: High
